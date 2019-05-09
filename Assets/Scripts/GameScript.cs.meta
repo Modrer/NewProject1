@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b72d0990db5fb74dac04b1c1a84c79c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - provCol: {instanceID: 0}
+  - Camera: {instanceID: 0}
+  - scene: {instanceID: 0}
+  - imageKaz: {fileID: 2800000, guid: c449a68431437a549b2fa8b1f274f888, type: 3}
+  - imageRyd: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

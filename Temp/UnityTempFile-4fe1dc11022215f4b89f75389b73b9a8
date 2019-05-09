@@ -297,5 +297,7 @@
 /define:CSHARP_7_OR_LATER
 /define:CSHARP_7_3_OR_NEWER
 Assets\Scripts\CamScript.cs
+Assets\Scripts\GameScript.cs
 Assets\Scripts\MenuScript.cs
+Assets\Scripts\ProvinceScript.cs
 Assets\Scripts\StartGameChoise.cs

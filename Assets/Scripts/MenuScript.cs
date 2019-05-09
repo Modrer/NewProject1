@@ -5,6 +5,7 @@ using UnityEngine;
 public class MenuScript : MonoBehaviour
 {
     public GameObject menoObject;
+    public GameObject scene;
     
 
     
@@ -23,7 +24,9 @@ public class MenuScript : MonoBehaviour
 
     public void OnStartClick()
     {
+        
         Application.LoadLevel(1);
+    
 
     }
 

@@ -63,8 +63,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\CamScript.cs" />
+    <Compile Include="Assets\Scripts\GameScript.cs" />
     <Compile Include="Assets\Scripts\MenuScript.cs" />
+    <Compile Include="Assets\Scripts\ProvinceScript.cs" />
     <Compile Include="Assets\Scripts\StartGameChoise.cs" />
+    <Compile Include="Assets\Scripts\StartPosScript.cs" />
+    <Compile Include="Assets\Scripts\TestScript.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/DanPK/Desktop/NewProject1/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
